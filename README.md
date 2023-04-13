@@ -5,7 +5,7 @@ Notre approche est basé sur le contenu et ce selon les préférences des utilis
 
 
 ## Application 
-<img src="./signIn_signUp_interface.jpg"  width="400" height="200" />
+<img src="./signIn_signUp_interface.jpg"  width="600" height="500" />
 
 
-<img src="./interface_application.jpg"  width="400" height="200" />
+<img src="./interface_application.jpg"  width="600" height="500" />
